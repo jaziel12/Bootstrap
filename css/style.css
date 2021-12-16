@@ -1,0 +1,13 @@
+.slide img{
+    height: 65vh;
+}
+/*Contacto*/
+.Contacto{
+    justify-content: flex-end;
+    display: flex;
+    background-position: center;
+    height: 100vh;
+    background-image: url("../img/contactonueva.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; /*Para que ocupe toda la imagen*/
+}
